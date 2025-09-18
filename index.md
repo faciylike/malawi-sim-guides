@@ -67,3 +67,10 @@ layout: default
 　　（上次租的设备在姆祖祖成了砖头）
 
 　　**最后的小感慨**：在马拉维办手机卡像参加一场微型冒险，从和小贩斗智斗勇到破解APN密码，每次成功联网都像收到份礼物。说到底，保持点耐心和幽默感，信号格总会满上的——毕竟，这里连夕阳都要加载三分钟呢。
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Malawi eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/malawi-data-plans)
